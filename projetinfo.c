@@ -79,7 +79,7 @@ polynome multiplication_scalaire (polynome poly, double scal){
 	
 	return NULL;
 	}
-
+// test git
 //*************************************************************
 
 //Augmentation du degré (*x).
